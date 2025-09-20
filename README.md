@@ -1,4 +1,4 @@
-![MSKDAW Banner](ULTRAMSKDAW.png)
+![MSKDAW Banner](LEGEND_MSKDAW.png)
 # MSKDAW
 **Cybersecurity & Digital Forensics Learning Hub**  
 Sharing resources, tools, and projects for awareness and education.
