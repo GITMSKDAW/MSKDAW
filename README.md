@@ -13,7 +13,7 @@ Our mission is to **educate, inspire, and protect** by sharing knowledge and rea
 - `/tools` → Scripts, code snippets, and open-source utilities
 
 ## 🌍 Connect With Us
-- Instagram → [@mskdaw1](https://instagram.com/mskdaw1)  
+- Instagram → [@mskdaw1](https://www.instagram.com/mskdaw1?igsh=MTdscjVuMWZ4bWs3Nw%3D%3D&utm_source=qr)  
 - Notion Resources → (https://www.notion.so/MSKDAW-Resources-2524f88334a3806493c4d3b70a9f8e69?source=copy_link)
 - GitHub Projects → (this repo!)
 
